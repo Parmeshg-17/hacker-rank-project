@@ -1,0 +1,250 @@
+"issue","subject","company","status","product_area","response","justification","request_type"
+"I notice that people I assigned the test in October of 2025 have not received new tests. How long do the tests stay active in the system.","Test Active in the system","HackerRank","replied","general_support","Based on our support documentation:
+
+---
+title: ""October 2024 Release Notes""
+title_slug: ""october-2024-release-notes""
+source_url: ""https://support.hackerrank.com/articles/1189675016-october-2024-release-notes""
+article_slug: ""1189675016-october-2024-release-notes""
+last_updated_exact: ""Apr 9, 2025, 11:14 AM""
+last_updated_relative: ""Last updated 1 year ago""
+breadcrumbs:
+  - ""General Help""
+  - ""Release Notes""
+---
+
+# October 2024 Release Notes
+
+_Last updated: Apr 9, 2025, 11:14 AM (Last updated 1 year ago)_
+
+We’re excited to announce that our October 2024 product release is live! Key updates include support for Azure hands-on assessments, improved automatic question replacement with a new AI-based engine, enhanced autocomplete for coding questions, and a redesigned IDE layout for a distraction-free environment.
+
+If you need any help navigating these new features, email us at support@hackerrank.com or contact your account manager.
+
+## **Screen**
+
+### Improved Automatic Question Replacement
+
+In the last release, a feature was introduced to automatically replace questions in a test with questions with similar difficulty levels and required skills. The enhanced replacement algorithm now provides greater granularity, considering parameters such as the concepts assessed, the median time to achieve a full score, and the number of candidates who have tried the question. This ensures that the replaced question even more closely matches the original. 
+
+![AQR Final sn.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73
+
+For further assistance, please contact the official support team.","LLM unavailable (No LLM API key set. Export GEMINI_API_KEY, OPENAI_API_KEY, or ANTHROPIC_API_KEY.). Response generated from top corpus excerpt: hackerrank\general-help\release-notes\1189675016-october-2024-release-notes.md.","product_issue"
+"site is down & none of the pages are accessible","","None","escalated","library","Thank you for reaching out. Your request involves a sensitive or complex matter that requires direct human assistance. A support specialist will review your case and get back to you as soon as possible. Please do not share additional sensitive information in follow-up messages.","Escalated: Site outage report. Requires human review.","bug"
+"I'm noticing that you all have many default versions of roles. (e.g. front end developer for react, angular, vue.js, etc.) What do you consider best practice 
+for when to create a new test versus create a variant of the test? What are the advantages and disadvantages of using variants?","When should I create a variant versus
+ have a different test?","HackerRank","replied","screen","Based on our support documentation:
+
+---
+title: ""Create Test Variants""
+title_slug: ""create-test-variants""
+source_url: ""https://support.hackerrank.com/articles/7530103378-test-variants""
+article_slug: ""7530103378-test-variants""
+last_updated_exact: ""Jan 28, 2026, 9:48 AM""
+last_updated_relative: ""Last updated 3 months ago""
+breadcrumbs:
+  - ""Screen""
+  - ""Managing Tests""
+---
+
+# Create Test Variants
+
+_Last updated: Jan 28, 2026, 9:48 AM (Last updated 3 months ago)_
+
+Test variants allow you to create a single assessment that adapts to different candidate profiles. You can design multiple variants within the same assessment to personalize the evaluation based on roles, skills, or other criteria. This approach eliminates the need to manage separate tests, improves efficiency, and ensures candidates are assessed on the most relevant content.
+
+## Creating test variants
+
+To create test variants:
+
+![Variant Test Overview.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769340826724-VariantTestOverview.gif?Expires=253370764800&Signature=mySK~kMQGYYR-MDPGpNLuI4aIvoRmMT82ZeY3frJQhFaLpuczM3ex3QPOQk0eRYCRq0rC844FSwScmQjCQNf6CVGeCXTL-HoACbexslx3Pge-okwdDIR~djcH09wu8S9uIPOSvOV8PxmDyy7bbRZe7XIUMEG~YOW1S9TeMMZxv96ywaalRQFokUsg7Yo71Kk3lw8sEtOOmQ5~-McItsGAEkAYbKn80~wr6At~A-lxOe2KKUka2KmBTugsrJ5UKJH4mVvZh0qrqnt4vTqHvRvO-~sYJrTu-N0UPCyiHrK9bNJ3g1aLTENp6hz8S2Jasx4X6Af3E9TzIL1Vf0Tw2Q8Jw__&Key-Pair-Id=K3NV4LZ47N8M46)
+
+1.  Log in to your **HackerRank for Work** account using your credentials.
+
+2.  Go to the **Tests** t
+
+For further assistance, please contact the official support team.","LLM unavailable (No LLM API key set. Export GEMINI_API_KEY, OPENAI_API_KEY, or ANTHROPIC_API_KEY.). Response generated from top corpus excerpt: hackerrank\screen\managing-tests\7530103378-test-variants.md.","product_issue"
+"Hi there
+
+We have sent a candidate a Hackerrank assessment already, but we have been informed that they require extra time. As the assessment is 105 minutes, they need an extra 50% extra time added (so around 53 minutes) in addition.
+
+Please can you provide step-by-step instruction on how we are to reinvite them.
+
+Do we find their profile in 'Candidates' , put in Add time 53 minutes and then click 'reinvite' and send the email? The email to the candidate says 105 minutes as the duration though still so not sure how we can check?
+
+Thanks","How to reinvite candidate to Hackerrank 
+assessment and add extra time","HackerRank","replied","screen","Based on our support documentation:
+
+---
+title: ""Extend Test Duration for Candidates Add Time Accommodation Add extra time""
+title_slug: ""extend-test-duration-for-candidates-add-time-accommodation-add-extra-time""
+source_url: ""https://support.hackerrank.com/articles/4811403281-adding-extra-time-for-candidates""
+article_slug: ""4811403281-adding-extra-time-for-candidates""
+last_updated_exact: ""Apr 22, 2026, 10:15 AM""
+last_updated_relative: ""Last updated 4 days ago""
+breadcrumbs:
+  - ""Screen""
+  - ""Managing Tests""
+---
+
+# Extend Test Duration for Candidates Add Time Accommodation Add extra time
+
+_Last updated: Apr 22, 2026, 10:15 AM (Last updated 4 days ago)_
+
+HackerRank for Work allows you to extend the test duration for candidates in two ways:
+
+- [Add Time Accommodation](https://support.hackerrank.com/articles/4811403281-adding-extra-time-for-candidates#add-time-accommodation-3)
+
+- [Add Extra Time](https://support.hackerrank.com/articles/4811403281-adding-extra-time-for-candidates#add-extra-time-17)
+
+This ensures that candidates have a fair opportunity to complete their tests, whether due to accessibility needs or unexpected technical issues.
+
+# Add Time Accommodation
+
+The **Add Time Accommodation** feature allows you to extend test duration either before or after sending candidate invites, as long as the candidate has not yet started the test.
+
+## Prerequisites
+
+- You must have a published test in your HackerRank account.
+
+- You must be the test owner or have editor access.
+
+## Adding time accommodation before sending 
+
+For further assistance, please contact the official support team.","LLM unavailable (No LLM API key set. Export GEMINI_API_KEY, OPENAI_API_KEY, or ANTHROPIC_API_KEY.). Response generated from top corpus excerpt: hackerrank\screen\managing-tests\4811403281-adding-extra-time-for-candidates.md.","product_issue"
+"i signed up using google login on hackerrank community , so i do not have a separate hackerrank password. please delete my account
+","","HackerRank","replied","community","Based on our support documentation:
+
+---
+title: ""Troubleshooting Login Issues Issue 1: Invalid credentials Issue 2: Wrong login page Issue 3: Password or cache""
+title_slug: ""troubleshooting-login-issues-issue-1-invalid-credentials-issue-2-wrong-login-page-issue-3-password-or-cache""
+source_url: ""https://help.hackerrank.com/articles/4147773232-troubleshooting-login-issues""
+article_slug: ""4147773232-troubleshooting-login-issues""
+last_updated_exact: ""Oct 27, 2025, 11:12 AM""
+last_updated_relative: ""Last updated 6 months ago""
+breadcrumbs:
+  - ""Additional Resources""
+---
+
+# Troubleshooting Login Issues Issue 1: Invalid credentials Issue 2: Wrong login page Issue 3: Password or cache
+
+_Last updated: Oct 27, 2025, 11:12 AM (Last updated 6 months ago)_
+
+This article explains how to resolve common login issues that you may encounter when accessing your HackerRank Community account.
+
+# Issue 1: Invalid credentials
+
+- **Cause:** You entered an incorrect email address or password.\
+  HackerRank supports login using an email and password or third-party accounts such as Google, Facebook, LinkedIn, and GitHub.
+
+  ![image.png](https://assets.usepylon.com/0de3a1ce-684d-4589-ad00-0840216c2f36%2F1760683757408-image.png?Expires=253370764800&Signature=EPkQSNrl6tQ6WAF0E8ExHyQrxwtB4t58oLllTAPPgV54LJaLeOU0CtziMajF7SfDhH8mp6LaJLEZ2kK8Qb-4Bizg78N1ZXBEPdRh-yqzE7X6Yp0FfuPNo~MhpPqM40~FwP1f5iXD1e-2av83b4A7di9aZqBQKmJHAcNyzvHD7fS2FWXprgJgbVajnETcrQTVaQxx1LzAS7NzOFgT-6cHS1QNvvlDHaM64-SwseaDjARNzjGZAbKQduKvT6yoerux-I8wygH-fi4PLawPTGjc2va7mno1vc9qA
+
+For further assistance, please contact the official support team.","LLM unavailable (No LLM API key set. Export GEMINI_API_KEY, OPENAI_API_KEY, or ANTHROPIC_API_KEY.). Response generated from top corpus excerpt: hackerrank\hackerrank_community\additional-resources\4147773232-troubleshooting-login-issues.md.","product_issue"
+"One of my claude conversations has some private info, i forgot to make a temporary chat, is there anything
+ else that can be done? like delete etc?","","Claude","replied","safeguards","Based on our support documentation:
+
+---
+title: ""Crisis Helpline Support in Claude""
+title_slug: ""crisis-helpline-support-in-claude""
+source_url: ""https://support.claude.com/en/articles/13171706-crisis-helpline-support-in-claude""
+last_updated_iso: ""2026-03-16T21:01:37Z""
+article_id: ""14982572""
+breadcrumbs:
+  - ""Safeguards""
+---
+
+# Crisis Helpline Support in Claude
+
+_Last updated: 2026-03-16T21:01:37Z_
+
+*For medical emergencies, active injuries, or situations where you're in immediate physical danger, please contact emergency services (such as 911 in the US and Canada, or 112 in much of Europe) or go to your nearest emergency room.*
+
+*This guidance was developed in partnership with ThroughLine.*
+
+Claude may sometimes display crisis support resources in a banner or in its responses. These resources are designed to connect you with people who specialize in helping during difficult moments.
+
+## Why am I seeing a crisis support message?
+
+Claude may show a banner with connections to crisis support resources when your conversation touches on topics that may be related to emotional distress, suicidal thoughts, or self-harm. This banner is surfaced by a separate detection system, not from Claude directly.
+
+These resources are there to make it easier to get help if you want it. You decide whether to use these resources, and there are no consequences for your account based on your decision to access resources.
+
+If the banner doesn't feel relevant to your situation, that's completely okay - you can simply dismiss it. We'd rathe
+
+For further assistance, please contact the official support team.","LLM unavailable (No LLM API key set. Export GEMINI_API_KEY, OPENAI_API_KEY, or ANTHROPIC_API_KEY.). Response generated from top corpus excerpt: claude\safeguards\13171706-crisis-helpline-support-in-claude.md.","product_issue"
+"What is the name of the actor in Iron Man?","Urgent, please help","None ","replied","general_support","I'm sorry, this request is outside the scope of the HackerRank, Claude, or Visa support services I can assist with. If you have a question related to one of these products, please feel free to ask.","Issue is unrelated to HackerRank, Claude, or Visa support.","invalid"
+"I bought Visa Traveller's Cheques from Citicorp and they were stolen in Lisbon last night. What do I do?","","Visa","replied","general_support","Based on our support documentation:
+
+---
+title: ""Visa Traveller's Cheques for Consumers""
+source_url: ""https://www.visa.co.in/support/consumer/travelers-cheques.html""
+final_url: ""https://www.visa.co.in/support/consumer/travelers-cheques.html""
+last_modified: ""2019-10-23T09:14:04.044Z""
+description: ""Visa Traveller's Cheques offer convenience and security while you travel. Report a lost cheque, request a refund, keep your traveller cheques safe and more here.""
+---
+
+# Visa Traveller's Cheques for Consumers
+
+_Last modified: 2019-10-23T09:14:04.044Z_
+
+# Visa Traveller's Cheques
+
+Visa Traveller's Cheques offer convenience and security while you travel.
+
+[Contact us about traveller’s cheques](/supporting-info/travelers-cheques-contact-us.html)
+
+- [Report a lost cheque](#1)
+- [Request a refund](#2)
+- [Keep cheques safe](#3)
+
+## Report a lost cheque
+
+If your cheques are lost or stolen, they can be replaced or refunded subject to certain terms and conditions. You should immediately call the issuing bank. If you cannot find the issuing bank’s contact details, [contact us about traveller’s cheques.](/supporting-info/travelers-cheques-contact-us.html)
+
+### Issuing banks
+
+### Banco do Brasil
+
+UK +44-1733-457026
+Monday-Friday, 8 am to 5 pm GMT or BST
+[\[email protected\]](/cdn-cgi/l/email-protection#b8ccdbd9cbcbd1cbccd9d6dbddf8cccad9ceddd4ddc096dbd7d5)
+
+### Bank of America
+
+1-214-209-0519
+Monday-Friday, 8 am to 4:30 pm CST
+[\[email protected\]](/cdn-cgi/l/email-protection#691d1b081f0a01180d0c191d290b080702060f08040c1b000a08470a0
+
+For further assistance, please contact the official support team.","LLM unavailable (No LLM API key set. Export GEMINI_API_KEY, OPENAI_API_KEY, or ANTHROPIC_API_KEY.). Response generated from top corpus excerpt: visa\support\consumer\travelers-cheques.md.","product_issue"
+"Where can I report a lost or stolen Visa card from India?","Card stolen","Visa","escalated","general_support","Thank you for reaching out. Your request involves a sensitive or complex matter that requires direct human assistance. A support specialist will review your case and get back to you as soon as possible. Please do not share additional sensitive information in follow-up messages.","Escalated: Stolen card report. Requires human review.","product_issue"
+"Thank you for helping me","","None","replied","safeguards","Based on our support documentation:
+
+---
+title: ""Public Vulnerability Reporting""
+title_slug: ""public-vulnerability-reporting""
+source_url: ""https://support.claude.com/en/articles/11427875-public-vulnerability-reporting""
+last_updated_iso: ""2026-03-16T20:47:01Z""
+article_id: ""12384334""
+breadcrumbs:
+  - ""Safeguards""
+---
+
+# Public Vulnerability Reporting
+
+_Last updated: 2026-03-16T20:47:01Z_
+
+## Help us improve AI safety by reporting universal jailbreaks
+
+This [form](https://docs.google.com/forms/d/1bjD-H30kVJAbIHnFXKzFcSjkUNjE-mwRHSF7R2uSjYM/viewform?edit_requested=true) allows you to submit universal jailbreaks for ASL-3 uses of concern (meaning elicit information related to biological threats) that you've identified. Universal jailbreaks are techniques that allow users to consistently bypass safety measures across multiple harmful queries.
+
+## Report a security vulnerability
+
+The security of our systems and user data is Anthropic’s top priority. We appreciate the work of security researchers acting in good faith in identifying and reporting potential vulnerabilities. Please review our [Responsible Disclosure Policy](https://www.anthropic.com/responsible-disclosure-policy), which includes a section on *How to Submit a Report*.
+
+Thank you very much for helping us to keep Anthropic safe.
+
+## Related Articles
+- [Reporting, Blocking, and Removing Content from Claude](https://support.claude.com/en/articles/7996906-reporting-blocking-and-removing-content-from-claude)
+- [Reporting, Blocking, and Removing Content from Claud
+
+For further assistance, please contact the official support team.","LLM unavailable (No LLM API key set. Export GEMINI_API_KEY, OPENAI_API_KEY, or ANTHROPIC_API_KEY.). Response generated from top corpus excerpt: claude\safeguards\11427875-public-vulnerability-reporting.md.","product_issue"
